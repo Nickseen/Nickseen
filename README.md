@@ -13,25 +13,20 @@ I'm a backend developer from Moldova.
 
 I'm interested in Blockchain development and DevOps. 
 
-<details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=ts,cpp,py,java,solidity,html,css,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,cpp,py,java,solidity,html,css&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=linux,githubactions,docker,git,obsidian&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,pycharm&perline=7" />
     <br>
   </p>
-</details>
 
-
-<details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickseen&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=Nickseen&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
   </p>
-</details>
