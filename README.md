@@ -22,7 +22,7 @@
 ## 📚 My stack
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=ts,py,java,c,solidity,html,css&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,py,java,solidity,html,css&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,spring,linux,githubactions,docker,git,obsidian&perline=7" />
     <h3>Blockchain</h3>
