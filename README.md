@@ -26,7 +26,10 @@
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,spring,linux,githubactions,docker,git,obsidian&perline=7" />
     <h3>Blockchain</h3>
-    <img src="https://skillicons.dev/icons?i=solidity&perline=7" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="48" height="48" alt="Hardhat" />
+    <p>
+      <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="48" height="48" alt="Hardhat" />
+    </p>
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,pycharm&perline=7" />
     <br>
