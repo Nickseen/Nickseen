@@ -1,24 +1,32 @@
-<h1 align="center">👋 Hello! I'm Nicola </h1>
+<div align="center">
+  
+# 👋 Hello! I'm Nicola
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+### Backend Developer | Blockchain Enthusiast | Web3 Explorer
 
-## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/fuckedupupd)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nicolai-petcov-607529293/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/petkovnicolai/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fuckedupupd)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolai-petcov-607529293/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/petkovnicolai/)
 
-I'm a backend developer from Moldova.
+</div>
 
-I'm interested in Blockchain development and DevOps. 
+---
+
+## 👨‍💻 About Me
+
+🔹 Backend Developer from Moldova 🇲🇩  
+🔹 Focused on **Blockchain Development** and **Web3**  
+🔹 Building with **Java**, **TypeScript**, **Python**, and **Solidity**  
+🔹 Experience with **Spring**, **Node.js**, and **Smart Contracts**
 
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=ts,cpp,py,java,solidity,html,css&perline=7" />
+    <img src="https://skillicons.dev/icons?i=ts,py,java,c,solidity,html,css&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=linux,githubactions,docker,git,obsidian&perline=7" />
+    <img src="https://skillicons.dev/icons?i=nodejs,spring,linux,githubactions,docker,git,obsidian&perline=7" />
+    <h3>Blockchain</h3>
+    <img src="https://skillicons.dev/icons?i=solidity&perline=7" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="48" height="48" alt="Hardhat" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,pycharm&perline=7" />
     <br>
