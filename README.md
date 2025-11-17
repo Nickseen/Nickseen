@@ -19,7 +19,7 @@
 🔹 Building with **Java**, **TypeScript**, **Python**, and **Solidity**  
 🔹 Experience with **Spring**, **Node.js**, and **Smart Contracts**
 
-  <summary><h2><b>📚 My stack</b></h2></summary>
+## 📚 My stack
   <p>
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=ts,py,java,c,solidity,html,css&perline=7" />
@@ -35,7 +35,7 @@
     <br>
   </p>
 
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+## ⭐GitHub stats
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickseen&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
