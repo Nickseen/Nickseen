@@ -40,11 +40,12 @@
     <img src="https://streak-stats.demolab.com/?user=Nickseen&theme=dracula&hide_border=true&background=00000000&fire=FF6B6B&ring=B44FFF" />
   </p>
   <p>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nickseen&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickseen&theme=dracula&layout=compact&hide_border=true&bg_color=00000000&langs_count=6" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nickseen&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nickseen&theme=dracula" />
   </p>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Nickseen&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nickseen&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nickseen&theme=dracula&utcOffset=3" />
   </p>
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nickseen&theme=dracula&hide_border=true&bg_color=00000000&area=true" />
