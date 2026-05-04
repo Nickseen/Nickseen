@@ -1,12 +1,15 @@
 <div align="center">
-  
-# 👋 Hello! I'm Nicola
 
-### Backend Developer | Blockchain Enthusiast | Web3 Explorer
+# 👋 Hello! I'm Nicolai Petcov
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fuckedupupd)
+### Software Developer · Crypto Trading Automation · Blockchain Engineering
+
+> Builds production-grade systems from scratch. Ships fast. Thinks in systems.
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://nickseen.github.io)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolai-petcov-607529293/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/petkovnicolai/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fuckedupupd)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petcovnicola@gmail.com)
 
 </div>
 
@@ -14,18 +17,22 @@
 
 ## 👨‍💻 About Me
 
-🔹 Backend Developer from Moldova 🇲🇩  
-🔹 Focused on **Blockchain Development** and **Web3**  
-🔹 Building with **Java**, **TypeScript**, **Python**, and **Solidity**  
-🔹 Experience with **Spring**, **Node.js**, and **Smart Contracts**
+🔹 Software Developer from Moldova 🇲🇩 — open to remote globally and relocation  
+🔹 Focused on **crypto trading automation**, **DeFi systems**, and **blockchain engineering**  
+🔹 Building with **Python** (asyncio · aiohttp · pydantic · ccxt), **Solidity**, **TypeScript**, **Java**  
+🔹 Experience with **WebSocket APIs**, **DEX integration (EIP-712)**, **Spring Boot**, and **Smart Contracts**  
+🔹 B.Sc. Software Engineering — Technical University of Moldova (English Honours Programme)
 
-## 📚 My stack
+---
+
+##  My Stack
+
   <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=ts,py,java,solidity,html,css&perline=7" />
+    <h3>Core Languages</h3>
+    <img src="https://skillicons.dev/icons?i=py,ts,java,solidity,html,css&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=nodejs,spring,linux,githubactions,docker,git,obsidian&perline=7" />
-    <h3>Blockchain</h3>
+    <h3>Blockchain & DeFi</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="48" height="48" alt="Hardhat" />
@@ -35,7 +42,13 @@
     <br>
   </p>
 
-## ⭐GitHub stats
+**Trading & DeFi:** `ccxt` `WebSocket APIs` `Funding Arb` `DEX Integration` `Order Book` `Binance API` `Bybit API`  
+**Python Async:** `asyncio` `aiohttp` `websockets` `pydantic v2` `pytest-asyncio`  
+**AI & Automation:** `Playwright` `Prompt Engineering` `LLM Pipelines` `AI Agents` `Browser Automation`
+
+---
+
+## ⭐ GitHub Stats
   <p>
     <img src="https://streak-stats.demolab.com/?user=Nickseen&theme=dracula&hide_border=true&background=00000000&fire=FF6B6B&ring=B44FFF" />
   </p>
